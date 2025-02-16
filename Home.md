@@ -1,2 +1,2 @@
 Адресация
-![image](https://github.com/user-attachments/assets/02d421f2-b083-4229-89e2-8cac34d95d51)
+![{13CE141D-A4B9-4114-9011-E64B901BC092}](https://github.com/user-attachments/assets/30fe632f-dc46-4a1c-8dfa-d16bccf89a8e)
