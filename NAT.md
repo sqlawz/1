@@ -12,7 +12,7 @@ nano /etc/sysctl.conf
 
 раскомменчиваем строку
 
-![{C83255EB-4AA7-4F52-AB77-5BA13D0774BE}](https://github.com/user-attachments/assets/a01bdb6d-f2b2-4298-8999-d8d2c717764e)
+![{05EA3F8A-3D78-4875-9A17-F91B3556D3D0}](https://github.com/user-attachments/assets/5132185d-5ee8-472f-9675-bc2ffd3d0c2d)
 
 sysctl -p
 
