@@ -30,6 +30,9 @@
 
 
 # Сервера
+
+Настройку выполняем на роутерах HQ-RTR и BR-RTR
+
 `mkdir /etc/nftables`
 
 `nano /etc/nftables/hq-rtr.nft`
