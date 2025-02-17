@@ -1,5 +1,7 @@
 # Роутеры
 
+Настройку выполняем на ISP
+
 `mkdir /etc/nftables`
 
 `nano /etc/nftables/isp.nft`
