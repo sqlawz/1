@@ -1,6 +1,7 @@
-mkdir /etc/nftables
+# mkdir /etc/nftables
 
-nano /etc/nftables/isp.nft
+# nano /etc/nftables/isp.nft
+указываем интерфейс, идущий в сторону Интернета
 
 ![{833E1262-2507-4C97-85EE-C0846F6C7362}](https://github.com/user-attachments/assets/fea07df7-475c-42e8-9580-5d7dd88d5d96)
 
