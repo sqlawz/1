@@ -22,11 +22,13 @@
 
 # SSH
 
+Создадим файл баннера, допустим `banner_ssh` и напишем текст ( можно написать без =, Authorized Access Only )
+
 `nano /etc/banner_ssh`
 
 ![{BF335577-9E9F-4135-89C3-B0830770B5D6}](https://github.com/user-attachments/assets/8a426fbb-a96d-43a2-b65c-36b329bd54b5)
 
-
+Пропишем выделенные параметры в конфигурационный файл
 
 `nano /etc/ssh/sshd_config`
 
@@ -45,3 +47,14 @@
 Далее прописываем `sudo su`, если пароль не запросился и вы вошли под `root`, то всё сделано правильно
 
 ![{C4B0A6FB-6E1D-450D-BAD0-238D014F3A21}](https://github.com/user-attachments/assets/72c90087-1907-406f-adbe-2e21b13b99a8)
+
+# HQ-RTR и BR-RTR
+
+Создадим пользователя `net_admin` и зададим ему пароль `P@ssw0rd`
+
+![{4A665BD7-F8E4-4C7F-9474-E0FA346F40A5}](https://github.com/user-attachments/assets/fb918ff7-4d9c-41bb-b6fd-c47e0d91f386)
+
+`visudo`
+
+![{06741716-AFD5-4626-8F67-09AB943C5326}](https://github.com/user-attachments/assets/5f16df41-76a5-4412-9073-198056894a7e)
+
